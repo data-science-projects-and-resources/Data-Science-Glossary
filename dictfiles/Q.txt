@@ -1,0 +1,1 @@
+Query language: A computer programming language used to communicate with a database
