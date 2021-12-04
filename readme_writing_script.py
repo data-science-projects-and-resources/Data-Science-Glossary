@@ -20,7 +20,7 @@ def write_dictionary(file):
 
 
 with open("ReadMe.md", "w") as f:
-    f.write("""[![update-readme-script](https://github.com/sharmas1ddharth/data_science_glossary/actions/workflows/update-readme.yml/badge.svg)](https://github.com/sharmas1ddharth/data_science_dictionary/actions/workflows/update-readme.yml)
+    f.write("""[![update-readme-script](https://github.com/data-science-projects-and-resources/Data-Science-Glossary/actions/workflows/update-readme.yml/badge.svg)](https://github.com/data-science-projects-and-resources/Data-Science-Glossary/actions/workflows/update-readme.yml)
             
             
 This repository is a glossary of common Data Science, Machine Learning and Statistics terms commonly used in the industry. In the coming days, we will add more terms. In the meanwhile, if you want to contribute to the glossary please read the [contribution guidelines](#contributionguidelines) provided below
