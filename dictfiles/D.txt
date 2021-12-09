@@ -8,4 +8,5 @@ Data ecosystem: The various elements that interact with one another in order to 
 Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown 
 Data strategy: The management of the people, processes, and tools used in data analysis
 Data visualization: The graphical representation of data
-Dataset: A collection of data that can be manipulated or analyzed as one unit 
+Dataset: A collection of data that can be manipulated or analyzed as one unit
+Database: A collection of data stored in a computer system

@@ -1,1 +1,2 @@
 Query language: A computer programming language used to communicate with a database
+Query: A request for data or information from a database
