@@ -47,8 +47,12 @@ This repository is a glossary of common Data Science, Machine Learning and Stati
 
 **Artificial Intelligence**:  Also, AI. The ability to have machines act with apparent intelligence, although varying definitions of “intelligence” lead to a range of meanings for the artificial variety. In AI’s early days in the 1960s, researchers sought general principles of intelligence to implement, often using symbolic logic to automate reasoning. As the cost of computing resources dropped, the focus moved more toward statistical analysis of large amounts of data to drive decision making that gives the appearance of intelligence. See also machine learning, data mining Wikipedia entry
 
+**Attribute**:  A characteristic or quality of data used to label a column in a table
+
 - ## B
 **Backpropogation**:  In neural networks, if the estimated output is far away from the actual output (high error), we update the biases and weights based on the error. This weight and bias updating process is known as Back Propagation. Back-propagation (BP) algorithms work by determining the loss (or error) at the output and then propagating it back into the network. The weights are updated to minimize the error resulting from each neuron. The first step in minimizing the error is to determine the gradient (Derivatives) of each node w.r.t. the final output
+
+**Business task**:  The question or problem data analysis resolves for a business
 
 - ## C
 **Context**:  The condition in which something exists or happens
@@ -74,10 +78,14 @@ This repository is a glossary of common Data Science, Machine Learning and Stati
 
 **Data**:  A collection of facts
 
+**Database**:  A collection of data stored in a computer system
+
 **Dataset**:  A collection of data that can be manipulated or analyzed as one unit
 
 - ## E
 - ## F
+**Fairness**:  A quality of data analysis that does not create or reinforce bias
+
 **Formula**:  A set of instructions used to perform a calculation using the data in a spreadsheet
 
 **Function**:  A preset command that automatically performs a specified process or task using the data in a spreadsheet
@@ -93,9 +101,13 @@ This repository is a glossary of common Data Science, Machine Learning and Stati
 - ## M
 - ## N
 - ## O
+**Observation**:  The attributes that describe a piece of data contained in a row of a table
+
 - ## P
 - ## Q
 **Query language**:  A computer programming language used to communicate with a database
+
+**Query**:  A request for data or information from a database
 
 - ## R
 **Root cause**:  The reason why a problem occurs
