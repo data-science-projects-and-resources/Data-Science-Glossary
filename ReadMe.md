@@ -37,6 +37,8 @@ This repository is a glossary of common Data Science, Machine Learning and Stati
 <br>
 
 - ## A
+**Action-oriented question**:  A question whose answers lead to change
+
 **Algorithm**:  A series of repeatable steps for carrying out a certain type of task with data. As with data structures, people studying computer science learn about different algorithms and their suitability for various tasks. Specific data structures often play a role in how certain algorithms get implemented. See also data structure Wikipedia entry
 
 **Analytical skills**:  Qualities and characteristics associated with using facts to solve problems
@@ -55,9 +57,13 @@ This repository is a glossary of common Data Science, Machine Learning and Stati
 **Business task**:  The question or problem data analysis resolves for a business
 
 - ## C
+**Cloud**:  A place to keep data online, rather than a computer hard drive
+
 **Context**:  The condition in which something exists or happens
 
 - ## D
+**Data analysis process**:  The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
+
 **Data analysis**:  The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
 
 **Data analyst**:  Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
@@ -67,6 +73,8 @@ This repository is a glossary of common Data Science, Machine Learning and Stati
 **Data design**:  How information is organized
 
 **Data ecosystem**:  The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+
+**Data life cycle**:  The sequence of stages that data experiences, which include plan, capture, manage, analyze, archive, and destroy
 
 **Data science**:  A field of study that uses raw data to create new ways of modeling and understanding the unknown 
 
@@ -98,27 +106,47 @@ This repository is a glossary of common Data Science, Machine Learning and Stati
 - ## J
 - ## K
 - ## L
+**Leading question**:  A question that steers people toward a certain response
+
 - ## M
+**Measurable question**:  A question whose answers can be quantified and assessed
+
 - ## N
 - ## O
 **Observation**:  The attributes that describe a piece of data contained in a row of a table
 
 - ## P
+**Problem types**:  The various problems that data analysts encounter, including categorizing things, discovering connections, finding patterns, identifying themes, making predictions, and spotting something unusual
+
 - ## Q
 **Query language**:  A computer programming language used to communicate with a database
 
 **Query**:  A request for data or information from a database
 
 - ## R
+**Relevant question**:  A question that has significance to the problem to be solved
+
 **Root cause**:  The reason why a problem occurs
 
 - ## S
+**SMART methodology**:  A tool for determining a question’s effectiveness based on whether it is specific, measurable, action-oriented, relevant, and time-bound
+
+**Specific question**:  A question that is simple, significant, and focused on a single topic or a few closely related ideas
+
+**Spreadsheet**:  A digital worksheet
+
 **Stakeholders**:  People who invest time and resources into a project and are interested in its outcome
+
+**Structured thinking**:  The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
 
 - ## T
 **Technical mindset**:  The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
 
+**Time-bound question**:  A question that specifies a timeframe to be studied
+
 - ## U
+**Unfair question**:  A question that makes assumptions or is difficult to answer honestly
+
 - ## V
 **Visualization**:  (Refer to data visualization)
 
