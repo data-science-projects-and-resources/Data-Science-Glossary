@@ -1,1 +1,2 @@
 Root cause: The reason why a problem occurs
+Relevant question: A question that has significance to the problem to be solved

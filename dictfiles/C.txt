@@ -1,1 +1,2 @@
 Context: The condition in which something exists or happens
+Cloud: A place to keep data online, rather than a computer hard drive

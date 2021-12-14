@@ -10,3 +10,5 @@ Data strategy: The management of the people, processes, and tools used in data a
 Data visualization: The graphical representation of data
 Dataset: A collection of data that can be manipulated or analyzed as one unit
 Database: A collection of data stored in a computer system
+Data life cycle: The sequence of stages that data experiences, which include plan, capture, manage, analyze, archive, and destroy
+Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making

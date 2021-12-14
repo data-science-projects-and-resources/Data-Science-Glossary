@@ -1,1 +1,5 @@
+SMART methodology: A tool for determining a question’s effectiveness based on whether it is specific, measurable, action-oriented, relevant, and time-bound
+Specific question: A question that is simple, significant, and focused on a single topic or a few closely related ideas
+Spreadsheet: A digital worksheet
 Stakeholders: People who invest time and resources into a project and are interested in its outcome
+Structured thinking: The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
